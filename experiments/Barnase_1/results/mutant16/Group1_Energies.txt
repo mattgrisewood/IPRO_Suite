@@ -1,0 +1,2 @@
+Complex Energy:     -20402.780
+Interaction Energy: -498.284

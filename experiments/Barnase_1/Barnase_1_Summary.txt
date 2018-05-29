@@ -1,0 +1,313 @@
+Initial Calculations
+Started on 9/10/2014 at 15:24:01
+The Complex Energy of Design Group 1 is -17319.700 kcal / mol
+The Interaction Energy of Design Group 1 is -193.490 kcal / mol
+Ended on 9/10/2014 at 15:44:22
+
+Wildtype Refinement Results
+Started on 9/10/2014 at 15:46:15
+Design Group 1
+Average Complex Energy: -20070.100 +/- 501.008 kcal/mol
+Average Interaction Energy: -411.226 +/- 244.331 kcal/mol
+Ended on 9/11/2014 at 13:09:45
+
+Mutant 1 Creation
+Started on 9/11/2014 at 13:09:47
+The Complex Energy of Design Group 1 is -20206.800 kcal / mol
+The Interaction Energy of Design Group 1 is -637.810 kcal / mol
+
+Mutant 2 Creation
+Started on 9/11/2014 at 20:01:51
+The Complex Energy of Design Group 1 is -19580.900 kcal / mol
+The Interaction Energy of Design Group 1 is -366.670 kcal / mol
+
+Mutant 1 Refinement Results
+Started on 9/11/2014 at 13:14:17
+Design Group 1
+Average Complex Energy: -20566.400 +/- 181.544 kcal/mol
+Average Interaction Energy: -611.889 +/- 91.463 kcal/mol
+Ended on 9/11/2014 at 21:49:48
+
+Mutant 3 Creation
+Started on 9/12/2014 at 03:15:09
+The Complex Energy of Design Group 1 is -19555.400 kcal / mol
+The Interaction Energy of Design Group 1 is -711.470 kcal / mol
+
+Mutant 2 Refinement Results
+Started on 9/11/2014 at 20:05:36
+Design Group 1
+Average Complex Energy: -20033.230 +/- 282.803 kcal/mol
+Average Interaction Energy: -480.031 +/- 90.014 kcal/mol
+Ended on 9/12/2014 at 05:11:22
+
+Mutant 4 Creation
+Started on 9/12/2014 at 10:33:31
+The Complex Energy of Design Group 1 is -18227.400 kcal / mol
+The Interaction Energy of Design Group 1 is -543.700 kcal / mol
+
+Mutant 3 Refinement Results
+Started on 9/12/2014 at 03:20:59
+Design Group 1
+Average Complex Energy: -19867.090 +/- 214.684 kcal/mol
+Average Interaction Energy: -681.869 +/- 90.260 kcal/mol
+Ended on 9/12/2014 at 12:22:49
+
+Mutant 5 Creation
+Started on 9/12/2014 at 18:02:28
+The Complex Energy of Design Group 1 is -18592.900 kcal / mol
+The Interaction Energy of Design Group 1 is -678.790 kcal / mol
+
+Mutant 6 Creation
+Started on 9/13/2014 at 01:29:33
+The Complex Energy of Design Group 1 is -19847.900 kcal / mol
+The Interaction Energy of Design Group 1 is -199.500 kcal / mol
+
+Mutant 5 Refinement Results
+Started on 9/12/2014 at 18:07:48
+Design Group 1
+Average Complex Energy: -18997.460 +/- 268.830 kcal/mol
+Average Interaction Energy: -614.561 +/- 155.873 kcal/mol
+Ended on 9/13/2014 at 03:16:53
+
+Mutant 7 Creation
+Started on 9/13/2014 at 09:13:42
+The Complex Energy of Design Group 1 is -19817.200 kcal / mol
+The Interaction Energy of Design Group 1 is -233.480 kcal / mol
+
+Mutant 8 Creation
+Started on 9/13/2014 at 17:20:09
+The Complex Energy of Design Group 1 is -19810.500 kcal / mol
+The Interaction Energy of Design Group 1 is -179.580 kcal / mol
+
+Mutant 7 Refinement Results
+Started on 9/13/2014 at 09:20:49
+Design Group 1
+Average Complex Energy: -20401.470 +/- 262.753 kcal/mol
+Average Interaction Energy: -308.574 +/- 114.860 kcal/mol
+Ended on 9/13/2014 at 19:08:51
+
+Mutant 9 Creation
+Started on 9/14/2014 at 01:23:41
+The Complex Energy of Design Group 1 is -19763.500 kcal / mol
+The Interaction Energy of Design Group 1 is -133.030 kcal / mol
+
+Mutant 8 Refinement Results
+Started on 9/13/2014 at 17:26:06
+Design Group 1
+Average Complex Energy: -20598.330 +/- 298.586 kcal/mol
+Average Interaction Energy: -219.763 +/- 205.877 kcal/mol
+Ended on 9/14/2014 at 03:14:50
+
+Mutant 10 Creation
+Started on 9/14/2014 at 09:21:19
+The Complex Energy of Design Group 1 is -19829.500 kcal / mol
+The Interaction Energy of Design Group 1 is -166.430 kcal / mol
+
+Mutant 9 Refinement Results
+Started on 9/14/2014 at 01:29:50
+Design Group 1
+Average Complex Energy: -20347.810 +/- 269.864 kcal/mol
+Average Interaction Energy: -247.162 +/- 120.450 kcal/mol
+Ended on 9/14/2014 at 11:15:28
+
+Mutant 11 Creation
+Started on 9/14/2014 at 17:11:10
+The Complex Energy of Design Group 1 is -19797.200 kcal / mol
+The Interaction Energy of Design Group 1 is -245.660 kcal / mol
+
+Mutant 10 Refinement Results
+Started on 9/14/2014 at 09:27:01
+Design Group 1
+Average Complex Energy: -20131.170 +/- 259.950 kcal/mol
+Average Interaction Energy: -176.428 +/- 117.199 kcal/mol
+Ended on 9/14/2014 at 18:55:34
+
+Mutant 12 Creation
+Started on 9/15/2014 at 00:51:09
+The Complex Energy of Design Group 1 is -19812.800 kcal / mol
+The Interaction Energy of Design Group 1 is -248.950 kcal / mol
+
+Mutant 11 Refinement Results
+Started on 9/14/2014 at 17:16:23
+Design Group 1
+Average Complex Energy: -20513.960 +/- 315.384 kcal/mol
+Average Interaction Energy: -304.842 +/- 94.434 kcal/mol
+Ended on 9/15/2014 at 02:34:07
+
+Mutant 13 Creation
+Started on 9/15/2014 at 08:32:12
+The Complex Energy of Design Group 1 is -19568.500 kcal / mol
+The Interaction Energy of Design Group 1 is -179.500 kcal / mol
+
+Mutant 12 Refinement Results
+Started on 9/15/2014 at 00:57:37
+Design Group 1
+Average Complex Energy: -20638.770 +/- 222.795 kcal/mol
+Average Interaction Energy: -216.976 +/- 108.396 kcal/mol
+Ended on 9/15/2014 at 10:31:42
+
+Mutant 14 Creation
+Started on 9/15/2014 at 16:39:01
+The Complex Energy of Design Group 1 is -20561.000 kcal / mol
+The Interaction Energy of Design Group 1 is -633.880 kcal / mol
+
+Mutant 13 Refinement Results
+Started on 9/15/2014 at 08:36:07
+Design Group 1
+Average Complex Energy: -20003.250 +/- 282.296 kcal/mol
+Average Interaction Energy: -390.500 +/- 169.544 kcal/mol
+Ended on 9/15/2014 at 18:44:45
+
+Mutant 15 Creation
+Started on 9/16/2014 at 00:15:07
+The Complex Energy of Design Group 1 is -20570.600 kcal / mol
+The Interaction Energy of Design Group 1 is -785.000 kcal / mol
+
+Mutant 14 Refinement Results
+Started on 9/15/2014 at 16:47:01
+Design Group 1
+Average Complex Energy: -20592.220 +/- 64.009 kcal/mol
+Average Interaction Energy: -602.805 +/- 84.800 kcal/mol
+Ended on 9/16/2014 at 01:55:40
+
+Mutant 16 Creation
+Started on 9/16/2014 at 07:54:20
+The Complex Energy of Design Group 1 is -20133.300 kcal / mol
+The Interaction Energy of Design Group 1 is -694.970 kcal / mol
+
+Mutant 15 Refinement Results
+Started on 9/16/2014 at 00:23:50
+Design Group 1
+Average Complex Energy: -20907.100 +/- 194.116 kcal/mol
+Average Interaction Energy: -701.073 +/- 130.584 kcal/mol
+Ended on 9/16/2014 at 09:39:11
+
+Mutant 17 Creation
+Started on 9/16/2014 at 15:29:32
+The Complex Energy of Design Group 1 is -19965.200 kcal / mol
+The Interaction Energy of Design Group 1 is -701.160 kcal / mol
+
+Mutant 16 Refinement Results
+Started on 9/16/2014 at 08:00:38
+Design Group 1
+Average Complex Energy: -20402.780 +/- 196.533 kcal/mol
+Average Interaction Energy: -498.284 +/- 108.662 kcal/mol
+Ended on 9/16/2014 at 17:22:43
+
+Mutant 18 Creation
+Started on 9/17/2014 at 00:14:35
+The Complex Energy of Design Group 1 is -19758.500 kcal / mol
+The Interaction Energy of Design Group 1 is -370.770 kcal / mol
+
+Mutant 19 Creation
+Started on 9/17/2014 at 08:48:55
+The Complex Energy of Design Group 1 is -19747.300 kcal / mol
+The Interaction Energy of Design Group 1 is -528.560 kcal / mol
+
+Mutant 18 Refinement Results
+Started on 9/17/2014 at 00:21:59
+Design Group 1
+Average Complex Energy: -19799.660 +/- 52.953 kcal/mol
+Average Interaction Energy: -419.161 +/- 80.218 kcal/mol
+Ended on 9/17/2014 at 10:43:12
+
+Mutant 20 Creation
+Started on 9/17/2014 at 17:25:25
+The Complex Energy of Design Group 1 is -20042.900 kcal / mol
+The Interaction Energy of Design Group 1 is -476.990 kcal / mol
+
+Mutant 19 Refinement Results
+Started on 9/17/2014 at 08:56:15
+Design Group 1
+Average Complex Energy: -19768.460 +/- 39.252 kcal/mol
+Average Interaction Energy: -521.377 +/- 26.038 kcal/mol
+Ended on 9/17/2014 at 19:40:03
+
+Mutant 21 Creation
+Started on 9/18/2014 at 02:28:51
+The Complex Energy of Design Group 1 is -19652.100 kcal / mol
+The Interaction Energy of Design Group 1 is -201.340 kcal / mol
+
+Mutant 22 Creation
+Started on 9/18/2014 at 11:28:36
+The Complex Energy of Design Group 1 is -19782.300 kcal / mol
+The Interaction Energy of Design Group 1 is -59.120 kcal / mol
+
+Mutant 21 Refinement Results
+Started on 9/18/2014 at 02:34:40
+Design Group 1
+Average Complex Energy: -20162.670 +/- 361.826 kcal/mol
+Average Interaction Energy: -248.139 +/- 136.036 kcal/mol
+Ended on 9/18/2014 at 13:21:30
+
+Mutant 23 Creation
+Started on 9/18/2014 at 20:38:11
+The Complex Energy of Design Group 1 is -19648.200 kcal / mol
+The Interaction Energy of Design Group 1 is -71.620 kcal / mol
+
+Mutant 23 Refinement Results
+Started on 9/18/2014 at 20:43:45
+Design Group 1
+Average Complex Energy: -20000.560 +/- 334.122 kcal/mol
+Average Interaction Energy: -269.825 +/- 144.710 kcal/mol
+Ended on 9/19/2014 at 08:16:03
+
+Mutant 4 Creation
+Started on 9/19/2014 at 19:24:38
+The Complex Energy of Design Group 1 is -18843.200 kcal / mol
+The Interaction Energy of Design Group 1 is -529.040 kcal / mol
+
+Mutant 6 Creation
+Started on 9/20/2014 at 08:04:41
+The Complex Energy of Design Group 1 is -19847.900 kcal / mol
+The Interaction Energy of Design Group 1 is -199.500 kcal / mol
+
+Mutant 4 Refinement Results
+Started on 9/19/2014 at 19:32:01
+Design Group 1
+Average Complex Energy: -19874.930 +/- 460.177 kcal/mol
+Average Interaction Energy: -632.469 +/- 209.649 kcal/mol
+Ended on 9/20/2014 at 10:35:51
+
+Mutant 17 Creation
+Started on 9/20/2014 at 16:03:00
+The Complex Energy of Design Group 1 is -19965.200 kcal / mol
+The Interaction Energy of Design Group 1 is -701.160 kcal / mol
+
+Mutant 6 Refinement Results
+Started on 9/20/2014 at 08:10:49
+Design Group 1
+Average Complex Energy: -20688.320 +/- 275.217 kcal/mol
+Average Interaction Energy: -204.713 +/- 112.483 kcal/mol
+Ended on 9/20/2014 at 18:07:26
+
+Mutant 20 Creation
+Started on 9/21/2014 at 00:07:30
+The Complex Energy of Design Group 1 is -20042.900 kcal / mol
+The Interaction Energy of Design Group 1 is -476.990 kcal / mol
+
+Mutant 17 Refinement Results
+Started on 9/20/2014 at 16:10:14
+Design Group 1
+Average Complex Energy: -20332.270 +/- 110.364 kcal/mol
+Average Interaction Energy: -419.897 +/- 87.066 kcal/mol
+Ended on 9/21/2014 at 02:00:59
+
+Mutant 22 Creation
+Started on 9/21/2014 at 08:01:16
+The Complex Energy of Design Group 1 is -19782.300 kcal / mol
+The Interaction Energy of Design Group 1 is -59.120 kcal / mol
+
+Mutant 20 Refinement Results
+Started on 9/21/2014 at 00:14:31
+Design Group 1
+Average Complex Energy: -20753.730 +/- 255.073 kcal/mol
+Average Interaction Energy: -479.811 +/- 97.327 kcal/mol
+Ended on 9/21/2014 at 09:50:22
+
+Mutant 22 Refinement Results
+Started on 9/21/2014 at 08:10:03
+Design Group 1
+Average Complex Energy: -20298.700 +/- 241.262 kcal/mol
+Average Interaction Energy: -257.632 +/- 102.595 kcal/mol
+Ended on 9/21/2014 at 17:43:06

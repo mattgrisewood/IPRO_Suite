@@ -1,0 +1,144 @@
+Basic Experiment Information
+User:                         Matthew Grisewood
+Type:                         Mutator
+Name:                         Barnase_1
+File Format:                  PDB
+Force Field:                  CHARMM
+Folder:                       /gpfs/work/m/mjg5185/IPRO_Suite/IPRO/experiments/Barnase_1/
+
+How to run IPRO
+IPRO Iterations:              3000
+IPRO Annealing Temperature:   3640.000
+Annealing Sharing:            yes
+Energy Calculation:           Interaction
+
+How to use CHARMM
+CHARMM Topology File:         top_all27_prot_na.rtf
+CHARMM Parameter File:        par_all27_prot_na.prm
+CHARMM Energy Term:           angl
+CHARMM Energy Term:           bond
+CHARMM Energy Term:           dihe
+CHARMM Energy Term:           elec
+CHARMM Energy Term:           impr
+CHARMM Energy Term:           urey
+CHARMM Energy Term:           vdw
+CHARMM Iterations:            5000
+Lj Phi:                       0.005
+
+How to use Implicit Solvation
+Use Solvation:                yes
+Solvation Type:               Lazaridis-Karplus
+LK Solvation File:            solvation.dat
+
+How to use rotamers
+Rotamer Library:              /gpfs/group/cdm/rotlib/
+Rotamer Window:               40.000
+Max Rotamer Number:           1300
+Packing Cutoff:               4.500
+Packing Method:               Distance
+Packing Selection:            RESTRAINED
+
+How to do Structure Refinements
+Refinement Iterations:        25
+Ensemble Number:              10
+
+How to run Docking
+Docking Frequency:            3
+Docking Iterations:           500
+Docking SD Movements:         0.200
+Docking SD Rotations:         2.000
+Docking Start Temp:           3640.000
+Docking End Temp:             2190.000
+
+The Molecules used in the experiment
+Molecule:                     Molecule A from file barnase_a.pdb is Design Molecule A
+Molecule:                     Molecule B from file barnase_b.pdb is Design Molecule B
+Molecule:                     Molecule C from file barnase_c.pdb is Design Molecule C
+Molecule:                     Molecule D from file barstar_d.pdb is Target Molecule D
+Molecule:                     Molecule E from file barstar_e.pdb is Target Molecule E
+Molecule:                     Molecule F from file barstar_f.pdb is Target Molecule F
+
+Molecules that are Dimers
+Dimers:                       Molecules A and B
+Dimers:                       Molecules A and C
+Dimers:                       Molecules B and C
+
+The Design Groups
+Design Group:                 Improve binding to Molecules: D E F
+
+Mutants
+Mutation:                     Mutant 1: Mutate Residue 27 in Molecule A to ALA
+Mutation:                     Mutant 1: Mutate Residue 27 in Molecule B to ALA
+Mutation:                     Mutant 1: Mutate Residue 27 in Molecule C to ALA
+Mutation:                     Mutant 2: Mutate Residue 59 in Molecule A to ALA
+Mutation:                     Mutant 2: Mutate Residue 59 in Molecule B to ALA
+Mutation:                     Mutant 2: Mutate Residue 59 in Molecule C to ALA
+Mutation:                     Mutant 3: Mutate Residue 83 in Molecule A to GLN
+Mutation:                     Mutant 3: Mutate Residue 83 in Molecule B to GLN
+Mutation:                     Mutant 3: Mutate Residue 83 in Molecule C to GLN
+Mutation:                     Mutant 4: Mutate Residue 87 in Molecule A to ALA
+Mutation:                     Mutant 4: Mutate Residue 87 in Molecule B to ALA
+Mutation:                     Mutant 4: Mutate Residue 87 in Molecule C to ALA
+Mutation:                     Mutant 5: Mutate Residue 102 in Molecule A to ALA
+Mutation:                     Mutant 5: Mutate Residue 102 in Molecule B to ALA
+Mutation:                     Mutant 5: Mutate Residue 102 in Molecule C to ALA
+Mutation:                     Mutant 6: Mutate Residue 73 in Molecule A to GLN
+Mutation:                     Mutant 6: Mutate Residue 73 in Molecule B to GLN
+Mutation:                     Mutant 6: Mutate Residue 73 in Molecule C to GLN
+Mutation:                     Mutant 7: Mutate Residue 73 in Molecule A to TRP
+Mutation:                     Mutant 7: Mutate Residue 73 in Molecule B to TRP
+Mutation:                     Mutant 7: Mutate Residue 73 in Molecule C to TRP
+Mutation:                     Mutant 8: Mutate Residue 73 in Molecule A to TYR
+Mutation:                     Mutant 8: Mutate Residue 73 in Molecule B to TYR
+Mutation:                     Mutant 8: Mutate Residue 73 in Molecule C to TYR
+Mutation:                     Mutant 9: Mutate Residue 73 in Molecule A to PHE
+Mutation:                     Mutant 9: Mutate Residue 73 in Molecule B to PHE
+Mutation:                     Mutant 9: Mutate Residue 73 in Molecule C to PHE
+Mutation:                     Mutant 10: Mutate Residue 73 in Molecule A to CYS
+Mutation:                     Mutant 10: Mutate Residue 73 in Molecule B to CYS
+Mutation:                     Mutant 10: Mutate Residue 73 in Molecule C to CYS
+Mutation:                     Mutant 11: Mutate Residue 73 in Molecule A to SER
+Mutation:                     Mutant 11: Mutate Residue 73 in Molecule B to SER
+Mutation:                     Mutant 11: Mutate Residue 73 in Molecule C to SER
+Mutation:                     Mutant 12: Mutate Residue 73 in Molecule A to ALA
+Mutation:                     Mutant 12: Mutate Residue 73 in Molecule B to ALA
+Mutation:                     Mutant 12: Mutate Residue 73 in Molecule C to ALA
+Mutation:                     Mutant 13: Mutate Residue 59 in Molecule A to LYS
+Mutation:                     Mutant 13: Mutate Residue 59 in Molecule B to LYS
+Mutation:                     Mutant 13: Mutate Residue 59 in Molecule C to LYS
+Mutation:                     Mutant 14: Mutate Residue 102 in Molecule A to GLN
+Mutation:                     Mutant 14: Mutate Residue 102 in Molecule B to GLN
+Mutation:                     Mutant 14: Mutate Residue 102 in Molecule C to GLN
+Mutation:                     Mutant 15: Mutate Residue 102 in Molecule A to ASP
+Mutation:                     Mutant 15: Mutate Residue 102 in Molecule B to ASP
+Mutation:                     Mutant 15: Mutate Residue 102 in Molecule C to ASP
+Mutation:                     Mutant 16: Mutate Residue 102 in Molecule A to GLY
+Mutation:                     Mutant 16: Mutate Residue 102 in Molecule B to GLY
+Mutation:                     Mutant 16: Mutate Residue 102 in Molecule C to GLY
+Mutation:                     Mutant 17: Mutate Residue 102 in Molecule A to LEU
+Mutation:                     Mutant 17: Mutate Residue 102 in Molecule B to LEU
+Mutation:                     Mutant 17: Mutate Residue 102 in Molecule C to LEU
+Mutation:                     Mutant 18: Mutate Residue 102 in Molecule A to GLN
+Mutation:                     Mutant 18: Mutate Residue 102 in Molecule B to GLN
+Mutation:                     Mutant 18: Mutate Residue 102 in Molecule C to GLN
+Mutation:                     Mutant 18: Mutate Residue 59 in Molecule A to LYS
+Mutation:                     Mutant 18: Mutate Residue 59 in Molecule B to LYS
+Mutation:                     Mutant 18: Mutate Residue 59 in Molecule C to LYS
+Mutation:                     Mutant 19: Mutate Residue 102 in Molecule A to GLN
+Mutation:                     Mutant 19: Mutate Residue 102 in Molecule B to GLN
+Mutation:                     Mutant 19: Mutate Residue 102 in Molecule C to GLN
+Mutation:                     Mutant 19: Mutate Residue 59 in Molecule A to ALA
+Mutation:                     Mutant 19: Mutate Residue 59 in Molecule B to ALA
+Mutation:                     Mutant 19: Mutate Residue 59 in Molecule C to ALA
+Mutation:                     Mutant 20: Mutate Residue 35 in Molecule A to PHE
+Mutation:                     Mutant 20: Mutate Residue 35 in Molecule B to PHE
+Mutation:                     Mutant 20: Mutate Residue 35 in Molecule C to PHE
+Mutation:                     Mutant 21: Mutate Residue 54 in Molecule A to ALA
+Mutation:                     Mutant 21: Mutate Residue 54 in Molecule B to ALA
+Mutation:                     Mutant 21: Mutate Residue 54 in Molecule C to ALA
+Mutation:                     Mutant 22: Mutate Residue 58 in Molecule A to ALA
+Mutation:                     Mutant 22: Mutate Residue 58 in Molecule B to ALA
+Mutation:                     Mutant 22: Mutate Residue 58 in Molecule C to ALA
+Mutation:                     Mutant 23: Mutate Residue 60 in Molecule A to ALA
+Mutation:                     Mutant 23: Mutate Residue 60 in Molecule B to ALA
+Mutation:                     Mutant 23: Mutate Residue 60 in Molecule C to ALA

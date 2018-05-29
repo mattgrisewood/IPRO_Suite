@@ -1,0 +1,15 @@
+#PBS -l pmem=4gb
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -q lionxf-cdm
+
+set -u
+cd /gpfs/work/m/mjg5185/IPRO_Suite/IPRO/experiments/Spec_barnase_2/
+
+echo " "
+echo " "
+echo "Job started on $(hostname -s) at $(date)"
+python IPRO.py
+echo " "
+echo "Job ended at $(date)"
+echo " "

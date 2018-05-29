@@ -1,0 +1,2 @@
+module load gcc/4.8.2
+g++ optcdr.cpp -std=c++11 -o optcdr.out
